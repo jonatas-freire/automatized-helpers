@@ -1,0 +1,10 @@
+{
+  "name": "automatized-helpers",
+  "version": "1.1.0",
+  "repository": "https://github.com/jonatas-freire/automatized-helpers.git",
+  "author": "Jonatas Freire <jonatas.freire84@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "update:package": "node versionControl/index.js"
+  }
+}
